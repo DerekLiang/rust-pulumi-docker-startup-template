@@ -1,0 +1,5 @@
+config:
+  azure-typescript-rust:location: westus2
+  azure:environment: public
+  azure:location: WestUS
+  pulumi:template: azure-typescript
