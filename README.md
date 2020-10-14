@@ -1,0 +1,1 @@
+# rust-pulumi-docker-startup-template
